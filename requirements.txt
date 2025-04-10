@@ -1,6 +1,6 @@
-Flask 
-numpy 
-keras 
-tensorflow 
-gevent 
-werkzeug 
+streamlit
+numpy == 1.21.2
+keras == 2.6.0
+tensorflow == 2.6.0
+gevent == 21.8.0
+werkzeug == 0.15.5
